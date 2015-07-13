@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+.content{
+	margin: auto;
+	margin-top: 300px;
+	text-align: center;
+	width: 50%;
+	font-size: 42px;
+	word-break: keep-all;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: white;
+}
